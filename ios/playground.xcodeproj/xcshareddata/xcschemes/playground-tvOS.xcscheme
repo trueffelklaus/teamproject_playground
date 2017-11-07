@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "playground-tvOS.app"
-               BlueprintName = "playground-tvOS"
-               ReferencedContainer = "container:playground.xcodeproj">
+               BuildableName = "Playground-tvOS.app"
+               BlueprintName = "Playground-tvOS"
+               ReferencedContainer = "container:Playground.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "playground-tvOSTests.xctest"
-               BlueprintName = "playground-tvOSTests"
-               ReferencedContainer = "container:playground.xcodeproj">
+               BuildableName = "Playground-tvOSTests.xctest"
+               BlueprintName = "Playground-tvOSTests"
+               ReferencedContainer = "container:Playground.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "playground-tvOSTests.xctest"
-               BlueprintName = "playground-tvOSTests"
-               ReferencedContainer = "container:playground.xcodeproj">
+               BuildableName = "Playground-tvOSTests.xctest"
+               BlueprintName = "Playground-tvOSTests"
+               ReferencedContainer = "container:Playground.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "playground-tvOS.app"
-            BlueprintName = "playground-tvOS"
-            ReferencedContainer = "container:playground.xcodeproj">
+            BuildableName = "Playground-tvOS.app"
+            BlueprintName = "Playground-tvOS"
+            ReferencedContainer = "container:Playground.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "playground-tvOS.app"
-            BlueprintName = "playground-tvOS"
-            ReferencedContainer = "container:playground.xcodeproj">
+            BuildableName = "Playground-tvOS.app"
+            BlueprintName = "Playground-tvOS"
+            ReferencedContainer = "container:Playground.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "playground-tvOS.app"
-            BlueprintName = "playground-tvOS"
-            ReferencedContainer = "container:playground.xcodeproj">
+            BuildableName = "Playground-tvOS.app"
+            BlueprintName = "Playground-tvOS"
+            ReferencedContainer = "container:Playground.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
